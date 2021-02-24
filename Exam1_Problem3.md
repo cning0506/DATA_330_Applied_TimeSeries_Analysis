@@ -32,11 +32,4 @@ __Table 1.__ Vocabulary Terms Table
 |       | Periodigram     |       |
 |       | First-Order Autorgressive regression (AR1) |       |
 |       |                 |       |
-|       |                 |       |
-|       |                 |       |
-|       |                 |       |
-|       |                 |       |
-|       |                 |       |
-|       |                 |       |
-|       |                 |       |
-|       |                 |       |
+

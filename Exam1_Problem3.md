@@ -6,7 +6,8 @@ __Table 1.__ Vocabulary Terms Table
 |       | Kernel          | Kernel is the computer program that is the core of an operating system that has the command over the system. |
 |       | Sum of the Squares  | The sum of the squares is the summation of squares of variation, which variation is defined as the difference between the data and the arithmetic mean.   |
 |       | Degree of Freedom   | Degrees of Freedom refers to the maximum number of logically independent values, which are values that have the freedom to vary, in the data sample. (Ganti, A. (2021, January 27). Degrees of freedom definition. https://www.investopedia.com/terms/d/degrees-of-freedom.asp.) |
-| 1.1   | Random Variable (Y)        | It is a function defined on a sample space $\Omega$       |
+| 1.1   | Random Variable (Y)        | It is a function defined on a sample space Ω, whose range is the real numbers, IR |
+|       | Real Numbers  (IR)         | A real number is any positive or negative number, including all integers and all rational and irrational numbers. (Real Number. Real Number Definition. https://techterms.com/definition/realnumber.)    |
 |       | Observation                |       |
 |       | Stochastic Process         |       |
 |       | Time/time series           |       |

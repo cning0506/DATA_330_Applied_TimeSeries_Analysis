@@ -4,7 +4,7 @@ __Table 1.__ Vocabulary Terms Table
 | :---: | :-------------- | :---------  |
 |  0    | Runtime         | Runtime is the amount of time when a program/application is operating.|
 |       | Kernel          | Kernel is the computer program that is the core of an operating system that has the command over the system. |
-|       | Sum of the Squares  |       |
+|       | Sum of the Squares  | The sum of the squares is the summation of squares of variation, which variation is defined as the difference between the data and the arithmetic mean.   |
 |       | Degree of Freedom   |       |
 | 1.1   | Random Variable                |       |
 |       | Observation                |       |

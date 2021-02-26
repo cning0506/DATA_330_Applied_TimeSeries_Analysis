@@ -1,30 +1,30 @@
 ## Realization 1
-Sample Autocorrelation:
+Sample Autocorrelation: d
 - Explanation - 
 
-Spectral Density:
+Spectral Density: a
 - Explanation - 
 
 
 ## Realization 2
-Sample Autocorrelation:
+Sample Autocorrelation: c
 - Explanation - 
 
-Spectral Density:
+Spectral Density: b
 - Explanation - 
 
 ## Realization 3
-Sample Autocorrelation:
+Sample Autocorrelation: b
 - Explanation - 
 
 
-Spectral Density:
+Spectral Density: c
 - Explanation - 
 
 
 ## Realization 4
-Sample Autocorrelation:
+Sample Autocorrelation: a
 - Explanation - 
 
-Spectral Density:
+Spectral Density: d
 - Explanation - 
